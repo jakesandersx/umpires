@@ -1,0 +1,176 @@
+Missed call:
+  Pitch number: 1
+  Pitcher: John King
+  Batter: Eugenio Suárez
+  Velocity: 86.5 mph
+  Inning: 9
+  Count: 0-0
+  Base Runners: Jarred Kelenic on 1st, Teoscar Hernández on 2nd
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 2
+  Pitcher: John King
+  Batter: Kolten Wong
+  Velocity: 93.7 mph
+  Inning: 9
+  Count: 2-0
+  Base Runners: José Caballero on 1st
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 3
+  Pitcher: John King
+  Batter: Kolten Wong
+  Velocity: 93.7 mph
+  Inning: 9
+  Count: 0-0
+  Base Runners: José Caballero on 1st
+  Strike that was called a ball
+============================
+Missed call:
+  Pitch number: 4
+  Pitcher: Cole Ragans
+  Batter: Eugenio Suárez
+  Velocity: 81.8 mph
+  Inning: 8
+  Count: 0-0
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 5
+  Pitcher: Cole Ragans
+  Batter: Jarred Kelenic
+  Velocity: 96.3 mph
+  Inning: 8
+  Count: 0-0
+  Base Runners: None
+  Strike that was called a ball
+============================
+Missed call:
+  Pitch number: 6
+  Pitcher: Chris Flexen
+  Batter: Jonah Heim
+  Velocity: 92.3 mph
+  Inning: 7
+  Count: 0-0
+  Base Runners: Josh Jung on 1st
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 7
+  Pitcher: Chris Flexen
+  Batter: Josh Jung
+  Velocity: 93.1 mph
+  Inning: 7
+  Count: 0-0
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 8
+  Pitcher: José Leclerc
+  Batter: Teoscar Hernández
+  Velocity: 83.4 mph
+  Inning: 7
+  Count: 3-2
+  Base Runners: Ty France on 1st
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 9
+  Pitcher: José Leclerc
+  Batter: Julio Rodríguez
+  Velocity: 95.8 mph
+  Inning: 7
+  Count: 1-1
+  Base Runners: Ty France on 1st
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 10
+  Pitcher: José Leclerc
+  Batter: J. p. Crawford
+  Velocity: 94.7 mph
+  Inning: 7
+  Count: 1-0
+  Base Runners: None
+  Strike that was called a ball
+============================
+Missed call:
+  Pitch number: 11
+  Pitcher: Tayler Saucedo
+  Batter: Mitch Garver
+  Velocity: 80.7 mph
+  Inning: 5
+  Count: 1-2
+  Base Runners: Jonah Heim on 2nd
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 12
+  Pitcher: Tayler Saucedo
+  Batter: Adolis García
+  Velocity: 85.1 mph
+  Inning: 4
+  Count: 0-0
+  Base Runners: Marcus Semien on 3rd
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 13
+  Pitcher: Andrew Heaney
+  Batter: J. p. Crawford
+  Velocity: 82.1 mph
+  Inning: 4
+  Count: 1-1
+  Base Runners: José Caballero on 2nd, Aj Pollock on 3rd
+  Strike that was called a ball
+============================
+Missed call:
+  Pitch number: 14
+  Pitcher: Andrew Heaney
+  Batter: Tom Murphy
+  Velocity: 91.6 mph
+  Inning: 4
+  Count: 0-1
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 15
+  Pitcher: Matt Festa
+  Batter: Ezequiel Duran
+  Velocity: 82.9 mph
+  Inning: 3
+  Count: 1-1
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 16
+  Pitcher: Andrew Heaney
+  Batter: Jarred Kelenic
+  Velocity: 93.5 mph
+  Inning: 3
+  Count: 1-0
+  Base Runners: Ty France on 3rd
+  Strike that was called a ball
+============================
+Missed call:
+  Pitch number: 17
+  Pitcher: Bryan Woo
+  Batter: Josh Jung
+  Velocity: 97.6 mph
+  Inning: 1
+  Count: 1-2
+  Base Runners: Adolis García on 1st, Corey Seager on 2nd
+  Ball that was called a strike
+============================
+
+
+Game Recap
+TEX vs SEA
+16 - 6
+Umpire: Mike Estabrook - 92% accuracyStrike Accuracy: 93% | Ball Accuracy: 91Total Balls/Strikes Called: 142, 78Missed Balls/Strikes: 12, 5

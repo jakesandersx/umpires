@@ -1,0 +1,126 @@
+Missed call:
+  Pitch number: 1
+  Pitcher: Jason Foley
+  Batter: Yasmani Grandal
+  Velocity: 91.6 mph
+  Inning: 8
+  Count: 0-1
+  Base Runners: Romy Gonzalez on 1st
+  Strike that was called a ball
+============================
+Missed call:
+  Pitch number: 2
+  Pitcher: Gregory Santos
+  Batter: Zach Mckinstry
+  Velocity: 97.7 mph
+  Inning: 8
+  Count: 0-0
+  Base Runners: Jake Marisnick on 1st
+  Strike that was called a ball
+============================
+Missed call:
+  Pitch number: 3
+  Pitcher: Gregory Santos
+  Batter: Jake Marisnick
+  Velocity: 91.8 mph
+  Inning: 8
+  Count: 0-0
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 4
+  Pitcher: Gregory Santos
+  Batter: Jonathan Schoop
+  Velocity: 97.9 mph
+  Inning: 8
+  Count: 2-2
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 5
+  Pitcher: Gregory Santos
+  Batter: Jonathan Schoop
+  Velocity: 89.4 mph
+  Inning: 8
+  Count: 1-0
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 6
+  Pitcher: Liam Hendriks
+  Batter: Eric Haase
+  Velocity: 95.2 mph
+  Inning: 7
+  Count: 3-1
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 7
+  Pitcher: Liam Hendriks
+  Batter: Eric Haase
+  Velocity: 94.8 mph
+  Inning: 7
+  Count: 2-1
+  Base Runners: None
+  Strike that was called a ball
+============================
+Missed call:
+  Pitch number: 8
+  Pitcher: Keynan Middleton
+  Batter: Spencer Torkelson
+  Velocity: 86.8 mph
+  Inning: 6
+  Count: 1-2
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 9
+  Pitcher: Michael Lorenzen
+  Batter: Gavin Sheets
+  Velocity: 85.1 mph
+  Inning: 5
+  Count: 2-1
+  Base Runners: None
+  Strike that was called a ball
+============================
+Missed call:
+  Pitch number: 10
+  Pitcher: Michael Lorenzen
+  Batter: Gavin Sheets
+  Velocity: 94.5 mph
+  Inning: 5
+  Count: 1-1
+  Base Runners: None
+  Strike that was called a ball
+============================
+Missed call:
+  Pitch number: 11
+  Pitcher: Dylan Cease
+  Batter: Jonathan Schoop
+  Velocity: 85.8 mph
+  Inning: 5
+  Count: 2-2
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 12
+  Pitcher: Dylan Cease
+  Batter: Nick Maton
+  Velocity: 79.9 mph
+  Inning: 2
+  Count: 0-0
+  Base Runners: None
+  Ball that was called a strike
+============================
+
+
+Game Recap
+CWS vs DET
+1 - 1
+Umpire: Cory Blaser - 92% accuracyStrike Accuracy: 91% | Ball Accuracy: 93Total Balls/Strikes Called: 103, 60Missed Balls/Strikes: 7, 5

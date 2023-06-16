@@ -1,0 +1,116 @@
+Missed call:
+  Pitch number: 1
+  Pitcher: Jorge López
+  Batter: Myles Straw
+  Velocity: 95.4 mph
+  Inning: 9
+  Count: 0-0
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 2
+  Pitcher: Enyel De los santos
+  Batter: Royce Lewis
+  Velocity: 96.4 mph
+  Inning: 8
+  Count: 0-0
+  Base Runners: None
+  Strike that was called a ball
+============================
+Missed call:
+  Pitch number: 3
+  Pitcher: Jovani Moran
+  Batter: Will Brennan
+  Velocity: 84.3 mph
+  Inning: 8
+  Count: 1-1
+  Base Runners: Gabriel Arias on 1st, Andrés Giménez on 2nd
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 4
+  Pitcher: Sonny Gray
+  Batter: Steven Kwan
+  Velocity: 93.1 mph
+  Inning: 7
+  Count: 0-0
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 5
+  Pitcher: Logan Allen
+  Batter: Christian Vázquez
+  Velocity: 87.9 mph
+  Inning: 5
+  Count: 0-0
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 6
+  Pitcher: Logan Allen
+  Batter: Michael Taylor
+  Velocity: 81.9 mph
+  Inning: 5
+  Count: 0-0
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 7
+  Pitcher: Sonny Gray
+  Batter: Mike Zunino
+  Velocity: 92.4 mph
+  Inning: 2
+  Count: 1-0
+  Base Runners: Will Brennan on 1st
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 8
+  Pitcher: Sonny Gray
+  Batter: Gabriel Arias
+  Velocity: 92.1 mph
+  Inning: 2
+  Count: 0-0
+  Base Runners: Andrés Giménez on 1st
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 9
+  Pitcher: Logan Allen
+  Batter: Jorge Polanco
+  Velocity: 77.6 mph
+  Inning: 1
+  Count: 1-1
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 10
+  Pitcher: Logan Allen
+  Batter: Jorge Polanco
+  Velocity: 92.6 mph
+  Inning: 1
+  Count: 0-0
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 11
+  Pitcher: Sonny Gray
+  Batter: Amed Rosario
+  Velocity: 92.9 mph
+  Inning: 1
+  Count: 0-0
+  Base Runners: None
+  Ball that was called a strike
+============================
+
+
+Game Recap
+MIN vs CLE
+2 - 4
+Umpire: Lance Barksdale - 93% accuracyStrike Accuracy: 98% | Ball Accuracy: 90Total Balls/Strikes Called: 102, 61Missed Balls/Strikes: 10, 1

@@ -1,0 +1,116 @@
+Missed call:
+  Pitch number: 1
+  Pitcher: Bruce Zimmermann
+  Batter: J. d. Davis
+  Velocity: 90.1 mph
+  Inning: 8
+  Count: 0-0
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 2
+  Pitcher: Alex Cobb
+  Batter: Austin Hays
+  Velocity: 94.8 mph
+  Inning: 7
+  Count: 1-0
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 3
+  Pitcher: Cionel Pérez
+  Batter: Blake Sabol
+  Velocity: 86.5 mph
+  Inning: 6
+  Count: 0-2
+  Base Runners: Austin Slater on 1st, Lamonte Wade on 2nd
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 4
+  Pitcher: Bryan Baker
+  Batter: Brandon Crawford
+  Velocity: 86.4 mph
+  Inning: 6
+  Count: 1-0
+  Base Runners: None
+  Strike that was called a ball
+============================
+Missed call:
+  Pitch number: 5
+  Pitcher: Alex Cobb
+  Batter: Ryan O'hearn
+  Velocity: 87.4 mph
+  Inning: 6
+  Count: 1-1
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 6
+  Pitcher: Keegan Akin
+  Batter: Patrick Bailey
+  Velocity: 92.3 mph
+  Inning: 5
+  Count: 0-0
+  Base Runners: Mitch Haniger on 1st, Blake Sabol on 2nd, Wilmer Flores on 3rd
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 7
+  Pitcher: Kyle Bradish
+  Batter: Lamonte Wade
+  Velocity: 85.2 mph
+  Inning: 4
+  Count: 0-0
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 8
+  Pitcher: Kyle Bradish
+  Batter: Brandon Crawford
+  Velocity: 83.7 mph
+  Inning: 4
+  Count: 1-0
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 9
+  Pitcher: Alex Cobb
+  Batter: Jorge Mateo
+  Velocity: 95.3 mph
+  Inning: 3
+  Count: 0-0
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 10
+  Pitcher: Kyle Bradish
+  Batter: Mike Yastrzemski
+  Velocity: 94.5 mph
+  Inning: 1
+  Count: 1-2
+  Base Runners: Lamonte Wade on 1st
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 11
+  Pitcher: Kyle Bradish
+  Batter: J. d. Davis
+  Velocity: 95.4 mph
+  Inning: 1
+  Count: 0-1
+  Base Runners: Lamonte Wade on 1st
+  Strike that was called a ball
+============================
+
+
+Game Recap
+SF vs BAL
+4 - 0
+Umpire: Vic Carapazza - 93% accuracyStrike Accuracy: 96% | Ball Accuracy: 90Total Balls/Strikes Called: 93, 65Missed Balls/Strikes: 9, 2

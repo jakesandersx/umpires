@@ -1,0 +1,106 @@
+Missed call:
+  Pitch number: 1
+  Pitcher: Lucas Erceg
+  Batter: Jorge Soler
+  Velocity: 85.8 mph
+  Inning: 8
+  Count: 1-1
+  Base Runners: Garrett Hampson on 2nd, Joey Wendle on 3rd
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 2
+  Pitcher: Lucas Erceg
+  Batter: Garrett Hampson
+  Velocity: 96.5 mph
+  Inning: 8
+  Count: 0-0
+  Base Runners: Joey Wendle on 2nd, Nick Fortes on 3rd
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 3
+  Pitcher: Lucas Erceg
+  Batter: Jesús Sánchez
+  Velocity: 88.0 mph
+  Inning: 8
+  Count: 1-0
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 4
+  Pitcher: George Soriano
+  Batter: Seth Brown
+  Velocity: 89.4 mph
+  Inning: 8
+  Count: 3-2
+  Base Runners: Ramón Laureano on 1st
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 5
+  Pitcher: Sam Long
+  Batter: Yuli Gurriel
+  Velocity: 93.7 mph
+  Inning: 4
+  Count: 0-0
+  Base Runners: None
+  Strike that was called a ball
+============================
+Missed call:
+  Pitch number: 6
+  Pitcher: Sam Long
+  Batter: Jesús Sánchez
+  Velocity: 93.1 mph
+  Inning: 4
+  Count: 2-0
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 7
+  Pitcher: Eury Pérez
+  Batter: Ramón Laureano
+  Velocity: 97.6 mph
+  Inning: 3
+  Count: 3-1
+  Base Runners: Ryan Noda on 1st
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 8
+  Pitcher: Eury Pérez
+  Batter: Nick Allen
+  Velocity: 97.2 mph
+  Inning: 3
+  Count: 0-0
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 9
+  Pitcher: Luis Medina
+  Batter: Nick Fortes
+  Velocity: 94.9 mph
+  Inning: 2
+  Count: 2-1
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 10
+  Pitcher: Eury Pérez
+  Batter: Tony Kemp
+  Velocity: 98.5 mph
+  Inning: 2
+  Count: 1-1
+  Base Runners: Shea Langeliers on 2nd
+  Ball that was called a strike
+============================
+
+
+Game Recap
+MIA vs OAK
+12 - 1
+Umpire: Doug Eddings - 94% accuracyStrike Accuracy: 98% | Ball Accuracy: 92Total Balls/Strikes Called: 128, 66Missed Balls/Strikes: 9, 1

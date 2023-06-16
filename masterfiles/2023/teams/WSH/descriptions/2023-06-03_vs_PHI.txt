@@ -1,0 +1,66 @@
+Missed call:
+  Pitch number: 1
+  Pitcher: Gregory Soto
+  Batter: Stone Garrett
+  Velocity: 99.9 mph
+  Inning: 7
+  Count: 1-2
+  Base Runners: None
+  Strike that was called a ball
+============================
+Missed call:
+  Pitch number: 2
+  Pitcher: Gregory Soto
+  Batter: Stone Garrett
+  Velocity: 99.7 mph
+  Inning: 7
+  Count: 0-1
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 3
+  Pitcher: Erasmo Ramírez
+  Batter: Edmundo Sosa
+  Velocity: 89.7 mph
+  Inning: 7
+  Count: 0-0
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 4
+  Pitcher: Mackenzie Gore
+  Batter: Brandon Marsh
+  Velocity: 84.8 mph
+  Inning: 6
+  Count: 1-1
+  Base Runners: None
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 5
+  Pitcher: Mackenzie Gore
+  Batter: Bryce Harper
+  Velocity: 90.0 mph
+  Inning: 3
+  Count: 0-1
+  Base Runners: Nick Castellanos on 1st, Edmundo Sosa on 2nd
+  Ball that was called a strike
+============================
+Missed call:
+  Pitch number: 6
+  Pitcher: Mackenzie Gore
+  Batter: Brandon Marsh
+  Velocity: 89.8 mph
+  Inning: 2
+  Count: 2-2
+  Base Runners: J. t. Realmuto on 2nd
+  Strike that was called a ball
+============================
+
+
+Game Recap
+WSH vs PHI
+2 - 4
+Umpire: Ben May - 95% accuracyStrike Accuracy: 94% | Ball Accuracy: 95Total Balls/Strikes Called: 96, 36Missed Balls/Strikes: 4, 2

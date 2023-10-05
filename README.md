@@ -2,7 +2,7 @@
 
 # Important Note
 
-This idea was 100% stolen from [UmpireScorecards](https://www.umpirescorecards.com). Please check them out
+This idea was 100% stolen from [UmpireScorecards](https://www.umpscorecards.com). Please check them out
 and give them the credit they deserve. I wrote this code simply
 to challenge myself using Python.
 
